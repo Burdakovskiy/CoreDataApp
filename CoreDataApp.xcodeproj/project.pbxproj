@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		689EE95E27614BED00F17770 /* NewTaskViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 689EE95D27614BED00F17770 /* NewTaskViewController.swift */; };
 		68D2F84E27609A7F006A0BA8 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 68D2F84D27609A7F006A0BA8 /* AppDelegate.swift */; };
 		68D2F85227609A7F006A0BA8 /* TaskListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 68D2F85127609A7F006A0BA8 /* TaskListViewController.swift */; };
 		68D2F85827609A7F006A0BA8 /* CoreDataApp.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 68D2F85627609A7F006A0BA8 /* CoreDataApp.xcdatamodeld */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		689EE95D27614BED00F17770 /* NewTaskViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewTaskViewController.swift; sourceTree = "<group>"; };
 		68D2F84A27609A7F006A0BA8 /* CoreDataApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CoreDataApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		68D2F84D27609A7F006A0BA8 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		68D2F85127609A7F006A0BA8 /* TaskListViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaskListViewController.swift; sourceTree = "<group>"; };
@@ -56,6 +58,7 @@
 			children = (
 				68D2F84D27609A7F006A0BA8 /* AppDelegate.swift */,
 				68D2F85127609A7F006A0BA8 /* TaskListViewController.swift */,
+				689EE95D27614BED00F17770 /* NewTaskViewController.swift */,
 				68D2F85927609A7F006A0BA8 /* Assets.xcassets */,
 				68D2F85B27609A7F006A0BA8 /* LaunchScreen.storyboard */,
 				68D2F85E27609A7F006A0BA8 /* Info.plist */,
@@ -136,6 +139,7 @@
 			files = (
 				68D2F85827609A7F006A0BA8 /* CoreDataApp.xcdatamodeld in Sources */,
 				68D2F85227609A7F006A0BA8 /* TaskListViewController.swift in Sources */,
+				689EE95E27614BED00F17770 /* NewTaskViewController.swift in Sources */,
 				68D2F84E27609A7F006A0BA8 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
